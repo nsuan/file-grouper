@@ -1,0 +1,7 @@
+boot
+pant
+chest
+sleeve
+glove
+belt
+bracer
