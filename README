@@ -1,0 +1,4 @@
+this was run like so: 
+
+
+for i in `ls -1 final\ patch/ |grep -v zip`; do ./run.sh $PWD/final\ patch/${i}; done	
